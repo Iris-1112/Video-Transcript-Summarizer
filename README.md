@@ -47,13 +47,6 @@ In this project, we use chunking followed by abstractive summarization with the 
 
 ---
 
-
-## Runtime
-Ensure Python 3.10 or 3.11 is installed on your system.
-
-
----
-
 ## Setup
 
 * **Install dependencies**
