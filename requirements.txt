@@ -1,0 +1,8 @@
+streamlit
+whisper
+transformers
+torch
+googletrans==4.0.0-rc1
+sentencepiece
+regex
+ffmpeg-python
